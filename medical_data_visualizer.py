@@ -45,7 +45,7 @@ def draw_cat_plot():
     ).fig
 
     # 8
-    fig = g.fig
+    
 
 
     # 9
